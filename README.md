@@ -2,11 +2,11 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Hello! I am a Frontend Develeoper knowing the skills HTML, CSS, JavaScript and React.js.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. This project is about the UI design of carbon crunch web page. This is fully responsive website and can run in every devices.
+2. Technologies used in this project : React.js and Tailwind CSS.
+3. I have also implemented the gradient background in which the color of background will automatically change after the interval of time 
+   period.
+4. I have also implemented the scrolling animation, when user will scroll then the appearance of content will be come with scrolling effect.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
